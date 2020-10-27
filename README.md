@@ -14,3 +14,9 @@ I'm just a normal Korean Student Developer intersted in javascript.
 #### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
+
+#### ❤️❤️❤️
+
+- IU (아이유)
+- Seafoods
+- Apple(iPhone, iMac, Airpods etc..)
