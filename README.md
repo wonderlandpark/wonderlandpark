@@ -7,6 +7,18 @@ I'm just a normal Korean Student Developer intersted in javascript.
 - [Webpage](https://wonder.im)
 - [Blog](https://blog.wonder.im)
 
+#### Developing
+
+- Webpage
+- Discord Bots
+- Apps
+
+#### Interested
+
+- Machine Learning
+- Data Science
+- CTFs
+
 #### Github Status
 
 [![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
