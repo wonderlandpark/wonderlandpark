@@ -1,6 +1,6 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
+<p align="center">I'm just a normal Korean Student Full Stack Developer intersted in Javascript.</p>
 
-I'm just a normal Korean Student Full Stack Developer intersted in Javascript.
 
 ### Useful Links
 
@@ -27,8 +27,9 @@ I'm just a normal Korean Student Full Stack Developer intersted in Javascript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
 
-### ❤️❤️❤️
+### Others
+#### ❤️❤️❤️
 
-- IU (아이유)
-- Seafoods
-- Apple(iPhone, iMac, Airpods etc..)
+- [🎤 IU (아이유)](https://www.instagram.com/dlwlrma/)
+- 🦀 Seafoods
+- 🍎 Apple Products(iPhone, iMac, Airpods etc..)
