@@ -21,7 +21,7 @@
 
 ### Github Status
 
-[![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
+[![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/wonderlandpark/github-readme-stats)
 
 ### Top Langs
 
