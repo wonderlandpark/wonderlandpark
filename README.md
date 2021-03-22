@@ -26,11 +26,11 @@
 
 ### Github Status
 
-[![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/wonderlandpark/github-readme-stats)
+![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=wonderlandpark&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderlandpark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderlandpark&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
 
 ### Others
 #### ❤️❤️❤️
