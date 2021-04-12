@@ -3,7 +3,7 @@
 
 ### Useful Links
 
-- [Webpage](https://wonder.im)
+- [Personal Webpage](https://wonder.im)
 - [Blog](https://blog.wonder.im)
 
 ### Developing
@@ -14,8 +14,8 @@
 
 #### Project currently working on
 
-- [dokdo](https://github.com/wonderlandpark/dokdo)
 - [koreanbots](https://github.com/koreanbots)
+- [dokdo](https://github.com/wonderlandpark/dokdo)
 - [wonderbot](https://github.com/wonderlandpark/wonderbot)
 - 
 ### Interested
