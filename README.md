@@ -14,10 +14,10 @@
 
 #### Project currently working on
 
-- [wonderbot](https://github.com/wonderlandpark/wonderbot)
 - [dokdo](https://github.com/wonderlandpark/dokdo)
 - [koreanbots](https://github.com/koreanbots)
-
+- [wonderbot](https://github.com/wonderlandpark/wonderbot)
+- 
 ### Interested
 
 - Machine Learning
