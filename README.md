@@ -6,6 +6,11 @@
 - [Personal Webpage](https://wonder.im)
 - [Blog](https://blog.wonder.im)
 
+### Contact
+
+- Discord: wonderlandpark#9999
+- Mail: [me@wonder.im](mailto:me@wonder.im)
+
 ### Developing
 
 - Webpage
