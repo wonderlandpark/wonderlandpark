@@ -1,6 +1,8 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">I'm just a normal Korean Student Full Stack Developer intersted in Javascript.</p>
 
+- Sub-Projects: [@wonderlanded](https://github.com/wonderlanded)
+
 ### Useful Links
 
 - [Personal Webpage](https://wonder.im)
