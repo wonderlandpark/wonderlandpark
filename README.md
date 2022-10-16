@@ -23,7 +23,7 @@
 
 - [koreanbots](https://github.com/koreanbots)
 - [dokdo](https://github.com/wonderlandpark/dokdo)
-- [wonderbot](https://github.com/wonderlandpark/wonderbot)
+- and more!
 
 ### Interested
 
@@ -40,8 +40,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonderlandpark&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff)](https://github.com/wonderlandpark/github-readme-stats)
 
 ### Others
+
 #### ❤️❤️❤️
 
-- [🎤 IU (아이유)](https://www.instagram.com/dlwlrma/)
+- [🎤 IU (아이유)](https://www.instagram.com/dlwlrma/) and K-Pop
 - 🦀 Seafoods
 - 🍎 Apple Products(iPhone, iMac, Airpods etc..)
