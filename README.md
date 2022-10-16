@@ -5,13 +5,13 @@
 
 ### Useful Links
 
-- [Personal Webpage](https://wonder.im)
-- [Blog](https://blog.wonder.im)
+- [Blog](https://junseo.me)
+- [Resume](https://junseo.me/resume)
 
-### Contact
+### Social
 
-- Discord: wonderlandpark#9999
-- Mail: [me@wonder.im](mailto:me@wonder.im)
+- Mail: [park@junseo.me](mailto:park@junseo.me)
+- Hackerone: [@wonderlandpark](https://hackerone.com/wonderlandpark?type=user)
 
 ### Developing
 
